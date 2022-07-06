@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": 1,
   "dependencies": {
     "benthos": "https://github.com/benthosdev/benthos",
     "brew": "https://github.com/Homebrew/brew",
