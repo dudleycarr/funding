@@ -1,10 +1,10 @@
 {
   "version": 1,
   "dependencies": [
-    "https://github.com/benthosdev/benthos",
-    "https://github.com/Homebrew/brew",
-    "https://github.com/neovim/neovim",
-    "https://github.com/postgres/postgres",
-    "https://github.com/go-task/task"
+    {"source": "https://github.com/benthosdev/benthos"},
+    {"source": "https://github.com/Homebrew/brew"},
+    {"source": "https://github.com/neovim/neovim"},
+    {"source": "https://github.com/postgres/postgres"},
+    {"source": "https://github.com/go-task/task"}
   ]
 }
